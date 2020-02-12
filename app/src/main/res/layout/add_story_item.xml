@@ -24,7 +24,8 @@
             android:layout_height="20dp"
             android:src="@drawable/add_story"
             android:layout_alignParentBottom="true"
-            android:layout_alignParentEnd="true"/>
+            android:layout_alignParentEnd="true"
+            android:id="@+id/story_plus"/>
 
     </RelativeLayout>
 
